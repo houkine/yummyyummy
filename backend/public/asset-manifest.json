@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "././static/css/main.d8f25c67.chunk.css",
+    "main.js": "././static/js/main.be3a4ecc.chunk.js",
+    "main.js.map": "././static/js/main.be3a4ecc.chunk.js.map",
+    "runtime-main.js": "././static/js/runtime-main.1afb4461.js",
+    "runtime-main.js.map": "././static/js/runtime-main.1afb4461.js.map",
+    "static/js/2.e85e75de.chunk.js": "././static/js/2.e85e75de.chunk.js",
+    "static/js/2.e85e75de.chunk.js.map": "././static/js/2.e85e75de.chunk.js.map",
+    "static/js/3.05800c26.chunk.js": "././static/js/3.05800c26.chunk.js",
+    "static/js/3.05800c26.chunk.js.map": "././static/js/3.05800c26.chunk.js.map",
+    "index.html": "././index.html",
+    "static/css/main.d8f25c67.chunk.css.map": "././static/css/main.d8f25c67.chunk.css.map",
+    "static/js/2.e85e75de.chunk.js.LICENSE.txt": "././static/js/2.e85e75de.chunk.js.LICENSE.txt",
+    "static/media/Crispy Wontons.91e53877.png": "././static/media/Crispy Wontons.91e53877.png",
+    "static/media/Laksa Noddle Soup.b0d7c3b0.png": "././static/media/Laksa Noddle Soup.b0d7c3b0.png",
+    "static/media/MobileLocation.53a5afc4.png": "././static/media/MobileLocation.53a5afc4.png",
+    "static/media/Seafood Noddle Soup.fcc9b76b.png": "././static/media/Seafood Noddle Soup.fcc9b76b.png",
+    "static/media/Steamed Dim Sums.86163cad.png": "././static/media/Steamed Dim Sums.86163cad.png",
+    "static/media/WebLocation.a3c126ab.png": "././static/media/WebLocation.a3c126ab.png",
+    "static/media/background1.0c7c7858.jpg": "././static/media/background1.0c7c7858.jpg",
+    "static/media/logo.6ce24c58.svg": "././static/media/logo.6ce24c58.svg",
+    "static/media/logo1.a97ffb29.png": "././static/media/logo1.a97ffb29.png",
+    "static/media/logo2.ea80e706.jpg": "././static/media/logo2.ea80e706.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1afb4461.js",
+    "static/js/2.e85e75de.chunk.js",
+    "static/css/main.d8f25c67.chunk.css",
+    "static/js/main.be3a4ecc.chunk.js"
+  ]
+}
